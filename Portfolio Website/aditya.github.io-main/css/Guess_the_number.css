@@ -1,0 +1,95 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: grey;
+    height: 100vh;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    padding: 5px;
+    justify-content: center;
+    justify-content: space-between;
+}
+header button{
+    margin-left: 50px;
+    margin-top: 25px;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    color: black solid ;
+    font-size: 25px;
+}
+header h4{
+    margin-right: 50px;
+    margin-top: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+.middle{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.underline{
+    display: flex;
+}
+.u1, .u3{
+    background-color: white;
+    height: 15px;
+    width: 100%;
+    margin-top: 50px;
+}
+.u2{
+    background-color: white;
+    height: 75px;
+    width: 30%;
+    margin-top: 20px;
+}
+.u2 button{
+    height: 75px;
+    width: 100%;
+    background-color: white;
+    font-size: 50px;
+}
+.bottom input{
+    width:130px;
+    margin-top: 50px;
+    height: 70px;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 80px;
+    border: 5px white solid;
+    font-size: 50px;
+    text-align: center;
+}
+
+.bottom2 button{
+    width:130px;
+    margin-top: 50px;
+    height: 50px;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 80px;
+    border: 5px  solid;
+    background-color: aliceblue;
+    font-size: 30px;
+    cursor: pointer;
+}
+.bottom-bar{
+    float: right;
+    margin-right: 100px;
+    margin-top: -100px;
+    line-height: 50px;
+    font-size: 20px;
+}
