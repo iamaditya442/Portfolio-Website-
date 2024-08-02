@@ -1,5 +1,26 @@
 # Portfolio-Website-
-This project contains source code of my website , which is designed uusing the skills HTML, CSS, AND JAVASCRIPT.
+
+
+**This project contains source code of my website , which is designed uusing the skills HTML, CSS, AND JAVASCRIPT.**
+
+
+
+**HTML Structure             :**     Defines layout and content.
+
+
+**CSS Styling                :**     Controls visual design and layout.
+
+
+**JavaScript Interactivity   :**     Adds dynamic features and interactions.
+
+
+**Responsive Design          :**     Adapts to different screen sizes.
+
+
+**Navigation Menu            :**     Provides easy site navigation.
+
+
+
 
 
 
